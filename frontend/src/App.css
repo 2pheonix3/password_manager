@@ -1,0 +1,56 @@
+h1 {
+  /* padding-top: 2vw; */
+  color: rgba(255, 0, 0, 0.76);
+}
+
+div {
+  /* padding-left: 10vw; */
+  padding-top: 5vw;
+}
+
+:root {
+  background-color: rgb(231, 126, 126);
+  text-align: center;
+}
+
+input {
+  width: 50vw;
+  height: 5vh;
+  /* border-start-end-radius: 20px; */
+  border-radius: 20px;
+  /* background-blend-mode:; */
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.566);
+  }
+  
+  button {
+    /* padding-left: 10vw;
+    padding-top: 5vw; */
+    overflow: hidden;
+    background-color: rgb(234, 75, 75);
+    border-radius: 20px;
+    width: 10vw;
+    height: 5vh;
+    }
+
+  table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+
+  th{
+    background-color: rgba(255, 0, 0, 0.76);
+  }
+
+  table{
+    width:100%;
+  }
+
+  .status{
+    color:red;
+  }
+
+  .abc{
+    width: 100px;
+    height: 30px;
+    overflow: hidden;
+  }
